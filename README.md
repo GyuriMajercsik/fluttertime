@@ -1,16 +1,31 @@
-# flutter_time
+# Flutter time
 
-Flutter time - an app skeleton
+Flutter time - an app playground
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is a playground for several Flutter and Firebase feature. 
+Provides multiple functionalities which are not necessary related to each-other. 
 
-A few resources to get you started if this is your first Flutter project:
+You can find the following: 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Firebase auth
+* Firebase analytics
+* Firestore database support: firestore
+* Firebase crashlytics
+* Firebase remote config example
+* Firebase ML Kit example
+* Firebase firestore streaming
+* Firebase Dynamic links sample
+* Firebase cloud notifications
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* Implement MQTT client using Mosquitto broker
+* Speedometer / counter based on stream - UI component
+* local notifications
+* shared preferences
+
+In order this to work, you will need to configure Firebase: https://firebase.google.com/docs/flutter/setup
+
+
+
+Special thanks to Dennis H.
